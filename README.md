@@ -1,4 +1,4 @@
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TadayoshiOtsuka&hidehtml,css)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TadayoshiOtsuka&hide=html,css&langs_count=5)
 
 <!--
 **TadayoshiOtsuka/TadayoshiOtsuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
