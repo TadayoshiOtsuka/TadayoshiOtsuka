@@ -1,4 +1,5 @@
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TadayoshiOtsuka&hide=html,css,hcl&langs_count=8)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=TadayoshiOtsuka&count_private=true&show_icons=true&hide_border=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=TadayoshiOtsuka&hide=html,css,hcl&langs_count=5&hide_border=true&custom_title=Top&nbsp;Languages)
 
 <!--
 **TadayoshiOtsuka/TadayoshiOtsuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
